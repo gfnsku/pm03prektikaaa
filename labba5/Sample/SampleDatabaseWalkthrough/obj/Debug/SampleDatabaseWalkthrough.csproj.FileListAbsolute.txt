@@ -1,0 +1,170 @@
+C:\Users\Home\source\repos\SampleDatabaseWalkthrough\SampleDatabaseWalkthrough\bin\Debug\SampleDatabase.mdf
+C:\Users\Home\source\repos\SampleDatabaseWalkthrough\SampleDatabaseWalkthrough\bin\Debug\SampleDatabase_log.ldf
+C:\Users\Home\source\repos\SampleDatabaseWalkthrough\SampleDatabaseWalkthrough\bin\Debug\SampleDatabaseWalkthrough.exe.config
+C:\Users\Home\source\repos\SampleDatabaseWalkthrough\SampleDatabaseWalkthrough\bin\Debug\SampleDatabaseWalkthrough.exe
+C:\Users\Home\source\repos\SampleDatabaseWalkthrough\SampleDatabaseWalkthrough\bin\Debug\SampleDatabaseWalkthrough.pdb
+C:\Users\Home\source\repos\SampleDatabaseWalkthrough\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.csproj.AssemblyReference.cache
+C:\Users\Home\source\repos\SampleDatabaseWalkthrough\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.Properties.Resources.resources
+C:\Users\Home\source\repos\SampleDatabaseWalkthrough\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.csproj.GenerateResource.cache
+C:\Users\Home\source\repos\SampleDatabaseWalkthrough\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\SampleDatabaseWalkthrough\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.exe
+C:\Users\Home\source\repos\SampleDatabaseWalkthrough\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.pdb
+C:\Users\Home\source\repos\SampleDatabaseWalkthrough\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.Avtoriz.resources
+C:\Users\Home\source\repos\SampleDatabaseWalkthrough\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.Sprav.resources
+C:\Users\Home\source\repos\SampleDatabaseWalkthrough\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.View.resources
+C:\Users\TEMP.AD\Desktop\SampleDatabaseWalkthrough\bin\Debug\SampleDatabase.mdf
+C:\Users\TEMP.AD\Desktop\SampleDatabaseWalkthrough\bin\Debug\SampleDatabase_log.ldf
+C:\Users\TEMP.AD\Desktop\SampleDatabaseWalkthrough\bin\Debug\SampleDatabaseWalkthrough.exe.config
+C:\Users\TEMP.AD\Desktop\SampleDatabaseWalkthrough\bin\Debug\SampleDatabaseWalkthrough.exe
+C:\Users\TEMP.AD\Desktop\SampleDatabaseWalkthrough\bin\Debug\SampleDatabaseWalkthrough.pdb
+C:\Users\TEMP.AD\Desktop\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.csproj.AssemblyReference.cache
+C:\Users\TEMP.AD\Desktop\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.Avtoriz.resources
+C:\Users\TEMP.AD\Desktop\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.Sprav.resources
+C:\Users\TEMP.AD\Desktop\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.View.resources
+C:\Users\TEMP.AD\Desktop\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.Properties.Resources.resources
+C:\Users\TEMP.AD\Desktop\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.csproj.GenerateResource.cache
+C:\Users\TEMP.AD\Desktop\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.csproj.CoreCompileInputs.cache
+C:\Users\TEMP.AD\Desktop\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.exe
+C:\Users\TEMP.AD\Desktop\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.pdb
+D:\SampleDatabaseWalkthrough\bin\Debug\SampleDatabase.mdf
+D:\SampleDatabaseWalkthrough\bin\Debug\SampleDatabase_log.ldf
+D:\SampleDatabaseWalkthrough\bin\Debug\SampleDatabaseWalkthrough.exe.config
+D:\SampleDatabaseWalkthrough\bin\Debug\SampleDatabaseWalkthrough.exe
+D:\SampleDatabaseWalkthrough\bin\Debug\SampleDatabaseWalkthrough.pdb
+D:\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.Avtoriz.resources
+D:\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.Sprav.resources
+D:\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.View.resources
+D:\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.Properties.Resources.resources
+D:\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.csproj.GenerateResource.cache
+D:\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.csproj.CoreCompileInputs.cache
+D:\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.exe
+D:\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.pdb
+D:\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.csprojAssemblyReference.cache
+C:\Users\TEMP.AD.015\Desktop\SampleDatabaseWalkthrough\bin\Debug\SampleDatabase.mdf
+C:\Users\TEMP.AD.015\Desktop\SampleDatabaseWalkthrough\bin\Debug\SampleDatabase_log.ldf
+C:\Users\TEMP.AD.015\Desktop\SampleDatabaseWalkthrough\bin\Debug\SampleDatabaseWalkthrough.exe.config
+C:\Users\TEMP.AD.015\Desktop\SampleDatabaseWalkthrough\bin\Debug\SampleDatabaseWalkthrough.exe
+C:\Users\TEMP.AD.015\Desktop\SampleDatabaseWalkthrough\bin\Debug\SampleDatabaseWalkthrough.pdb
+C:\Users\TEMP.AD.015\Desktop\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.csproj.AssemblyReference.cache
+C:\Users\TEMP.AD.015\Desktop\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.Avtoriz.resources
+C:\Users\TEMP.AD.015\Desktop\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.Sprav.resources
+C:\Users\TEMP.AD.015\Desktop\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.View.resources
+C:\Users\TEMP.AD.015\Desktop\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.Properties.Resources.resources
+C:\Users\TEMP.AD.015\Desktop\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.csproj.GenerateResource.cache
+C:\Users\TEMP.AD.015\Desktop\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.csproj.CoreCompileInputs.cache
+C:\Users\TEMP.AD.015\Desktop\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.exe
+C:\Users\TEMP.AD.015\Desktop\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.pdb
+C:\Users\TEMP.AD.015\Desktop\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.Role.resources
+D:\3 курс\Летняя сессия\Разработка приложеий БД\5 лаба\SampleDatabaseWalkthrough\bin\Debug\SampleDatabase.mdf
+D:\3 курс\Летняя сессия\Разработка приложеий БД\5 лаба\SampleDatabaseWalkthrough\bin\Debug\SampleDatabase_log.ldf
+D:\3 курс\Летняя сессия\Разработка приложеий БД\5 лаба\SampleDatabaseWalkthrough\bin\Debug\SampleDatabaseWalkthrough.exe.config
+D:\3 курс\Летняя сессия\Разработка приложеий БД\5 лаба\SampleDatabaseWalkthrough\bin\Debug\SampleDatabaseWalkthrough.exe
+D:\3 курс\Летняя сессия\Разработка приложеий БД\5 лаба\SampleDatabaseWalkthrough\bin\Debug\SampleDatabaseWalkthrough.pdb
+D:\3 курс\Летняя сессия\Разработка приложеий БД\5 лаба\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.csproj.AssemblyReference.cache
+D:\3 курс\Летняя сессия\Разработка приложеий БД\5 лаба\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.Avtoriz.resources
+D:\3 курс\Летняя сессия\Разработка приложеий БД\5 лаба\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.Sprav.resources
+D:\3 курс\Летняя сессия\Разработка приложеий БД\5 лаба\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.View.resources
+D:\3 курс\Летняя сессия\Разработка приложеий БД\5 лаба\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.Role.resources
+D:\3 курс\Летняя сессия\Разработка приложеий БД\5 лаба\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.Properties.Resources.resources
+D:\3 курс\Летняя сессия\Разработка приложеий БД\5 лаба\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.csproj.GenerateResource.cache
+D:\3 курс\Летняя сессия\Разработка приложеий БД\5 лаба\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.csproj.CoreCompileInputs.cache
+D:\3 курс\Летняя сессия\Разработка приложеий БД\5 лаба\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.exe
+D:\3 курс\Летняя сессия\Разработка приложеий БД\5 лаба\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.pdb
+D:\3 курс\Летняя сессия\Разработка приложеий БД\6 лаба\SampleDatabaseWalkthrough\bin\Debug\SampleDatabase.mdf
+D:\3 курс\Летняя сессия\Разработка приложеий БД\6 лаба\SampleDatabaseWalkthrough\bin\Debug\SampleDatabase_log.ldf
+D:\3 курс\Летняя сессия\Разработка приложеий БД\6 лаба\SampleDatabaseWalkthrough\bin\Debug\SampleDatabaseWalkthrough.exe.config
+D:\3 курс\Летняя сессия\Разработка приложеий БД\6 лаба\SampleDatabaseWalkthrough\bin\Debug\SampleDatabaseWalkthrough.exe
+D:\3 курс\Летняя сессия\Разработка приложеий БД\6 лаба\SampleDatabaseWalkthrough\bin\Debug\SampleDatabaseWalkthrough.pdb
+D:\3 курс\Летняя сессия\Разработка приложеий БД\6 лаба\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.csproj.AssemblyReference.cache
+D:\3 курс\Летняя сессия\Разработка приложеий БД\6 лаба\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.Avtoriz.resources
+D:\3 курс\Летняя сессия\Разработка приложеий БД\6 лаба\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.Sprav.resources
+D:\3 курс\Летняя сессия\Разработка приложеий БД\6 лаба\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.View.resources
+D:\3 курс\Летняя сессия\Разработка приложеий БД\6 лаба\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.Role.resources
+D:\3 курс\Летняя сессия\Разработка приложеий БД\6 лаба\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.Properties.Resources.resources
+D:\3 курс\Летняя сессия\Разработка приложеий БД\6 лаба\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.csproj.GenerateResource.cache
+D:\3 курс\Летняя сессия\Разработка приложеий БД\6 лаба\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.csproj.CoreCompileInputs.cache
+D:\3 курс\Летняя сессия\Разработка приложеий БД\6 лаба\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.exe
+D:\3 курс\Летняя сессия\Разработка приложеий БД\6 лаба\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.pdb
+C:\Users\я\Desktop\Sample\SampleDatabaseWalkthrough\bin\Debug\SampleDatabase.mdf
+C:\Users\я\Desktop\Sample\SampleDatabaseWalkthrough\bin\Debug\SampleDatabase_log.ldf
+C:\Users\я\Desktop\Sample\SampleDatabaseWalkthrough\bin\Debug\SampleDatabaseWalkthrough.exe.config
+C:\Users\я\Desktop\Sample\SampleDatabaseWalkthrough\bin\Debug\SampleDatabaseWalkthrough.exe
+C:\Users\я\Desktop\Sample\SampleDatabaseWalkthrough\bin\Debug\SampleDatabaseWalkthrough.pdb
+C:\Users\я\Desktop\Sample\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.csproj.AssemblyReference.cache
+C:\Users\я\Desktop\Sample\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.Avtoriz.resources
+C:\Users\я\Desktop\Sample\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.Sprav.resources
+C:\Users\я\Desktop\Sample\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.View.resources
+C:\Users\я\Desktop\Sample\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.Role.resources
+C:\Users\я\Desktop\Sample\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.Properties.Resources.resources
+C:\Users\я\Desktop\Sample\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.csproj.GenerateResource.cache
+C:\Users\я\Desktop\Sample\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.csproj.CoreCompileInputs.cache
+C:\Users\я\Desktop\Sample\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.exe
+C:\Users\я\Desktop\Sample\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.pdb
+D:\АГУ\3 курс\3 курс 2 семестр\Разработка приложений БД\2 Семестр\Лаба 5\Sample\SampleDatabaseWalkthrough\bin\Debug\SampleDatabase.mdf
+D:\АГУ\3 курс\3 курс 2 семестр\Разработка приложений БД\2 Семестр\Лаба 5\Sample\SampleDatabaseWalkthrough\bin\Debug\SampleDatabase_log.ldf
+D:\АГУ\3 курс\3 курс 2 семестр\Разработка приложений БД\2 Семестр\Лаба 5\Sample\SampleDatabaseWalkthrough\bin\Debug\SampleDatabaseWalkthrough.exe.config
+D:\АГУ\3 курс\3 курс 2 семестр\Разработка приложений БД\2 Семестр\Лаба 5\Sample\SampleDatabaseWalkthrough\bin\Debug\SampleDatabaseWalkthrough.exe
+D:\АГУ\3 курс\3 курс 2 семестр\Разработка приложений БД\2 Семестр\Лаба 5\Sample\SampleDatabaseWalkthrough\bin\Debug\SampleDatabaseWalkthrough.pdb
+D:\АГУ\3 курс\3 курс 2 семестр\Разработка приложений БД\2 Семестр\Лаба 5\Sample\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.csproj.AssemblyReference.cache
+D:\АГУ\3 курс\3 курс 2 семестр\Разработка приложений БД\2 Семестр\Лаба 5\Sample\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.Avtoriz.resources
+D:\АГУ\3 курс\3 курс 2 семестр\Разработка приложений БД\2 Семестр\Лаба 5\Sample\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.Sprav.resources
+D:\АГУ\3 курс\3 курс 2 семестр\Разработка приложений БД\2 Семестр\Лаба 5\Sample\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.View.resources
+D:\АГУ\3 курс\3 курс 2 семестр\Разработка приложений БД\2 Семестр\Лаба 5\Sample\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.Role.resources
+D:\АГУ\3 курс\3 курс 2 семестр\Разработка приложений БД\2 Семестр\Лаба 5\Sample\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.Properties.Resources.resources
+D:\АГУ\3 курс\3 курс 2 семестр\Разработка приложений БД\2 Семестр\Лаба 5\Sample\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.csproj.GenerateResource.cache
+D:\АГУ\3 курс\3 курс 2 семестр\Разработка приложений БД\2 Семестр\Лаба 5\Sample\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.csproj.CoreCompileInputs.cache
+D:\АГУ\3 курс\3 курс 2 семестр\Разработка приложений БД\2 Семестр\Лаба 5\Sample\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.exe
+D:\АГУ\3 курс\3 курс 2 семестр\Разработка приложений БД\2 Семестр\Лаба 5\Sample\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.pdb
+E:\АГУ\3 курс\3 курс 2 семестр\Разработка приложений БД\2 Семестр\Лаба 5\Sample\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.csproj.AssemblyReference.cache
+E:\АГУ\3 курс\3 курс 2 семестр\Разработка приложений БД\2 Семестр\Лаба 5\Sample\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.Avtoriz.resources
+E:\АГУ\3 курс\3 курс 2 семестр\Разработка приложений БД\2 Семестр\Лаба 5\Sample\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.Sprav.resources
+E:\АГУ\3 курс\3 курс 2 семестр\Разработка приложений БД\2 Семестр\Лаба 5\Sample\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.View.resources
+E:\АГУ\3 курс\3 курс 2 семестр\Разработка приложений БД\2 Семестр\Лаба 5\Sample\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.Role.resources
+E:\АГУ\3 курс\3 курс 2 семестр\Разработка приложений БД\2 Семестр\Лаба 5\Sample\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.Properties.Resources.resources
+E:\АГУ\3 курс\3 курс 2 семестр\Разработка приложений БД\2 Семестр\Лаба 5\Sample\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.csproj.GenerateResource.cache
+E:\АГУ\3 курс\3 курс 2 семестр\Разработка приложений БД\2 Семестр\Лаба 5\Sample\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.csproj.CoreCompileInputs.cache
+E:\АГУ\3 курс\3 курс 2 семестр\Разработка приложений БД\2 Семестр\Лаба 5\Sample\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.exe
+E:\АГУ\3 курс\3 курс 2 семестр\Разработка приложений БД\2 Семестр\Лаба 5\Sample\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.pdb
+E:\АГУ\3 курс\3 курс 2 семестр\Разработка приложений БД\2 Семестр\Лаба 5\Sample\SampleDatabaseWalkthrough\bin\Debug\SampleDatabase.mdf
+E:\АГУ\3 курс\3 курс 2 семестр\Разработка приложений БД\2 Семестр\Лаба 5\Sample\SampleDatabaseWalkthrough\bin\Debug\SampleDatabase_log.ldf
+E:\АГУ\3 курс\3 курс 2 семестр\Разработка приложений БД\2 Семестр\Лаба 5\Sample\SampleDatabaseWalkthrough\bin\Debug\SampleDatabaseWalkthrough.exe.config
+E:\АГУ\3 курс\3 курс 2 семестр\Разработка приложений БД\2 Семестр\Лаба 5\Sample\SampleDatabaseWalkthrough\bin\Debug\SampleDatabaseWalkthrough.exe
+E:\АГУ\3 курс\3 курс 2 семестр\Разработка приложений БД\2 Семестр\Лаба 5\Sample\SampleDatabaseWalkthrough\bin\Debug\SampleDatabaseWalkthrough.pdb
+C:\Users\gakch\Desktop\labba5\Sample\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.csproj.AssemblyReference.cache
+C:\Users\gakch\Desktop\labba5\Sample\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.Avtoriz.resources
+C:\Users\gakch\Desktop\labba5\Sample\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.Sprav.resources
+C:\Users\gakch\Desktop\labba5\Sample\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.View.resources
+C:\Users\gakch\Desktop\labba5\Sample\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.Role.resources
+C:\Users\gakch\Desktop\labba5\Sample\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.Properties.Resources.resources
+C:\Users\gakch\Desktop\labba5\Sample\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.RegForm.resources
+C:\Users\gakch\Desktop\labba5\Sample\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.csproj.GenerateResource.cache
+C:\Users\gakch\Desktop\labba5\Sample\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.csproj.CoreCompileInputs.cache
+C:\Users\gakch\Desktop\labba5\Sample\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.exe
+C:\Users\gakch\Desktop\labba5\Sample\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.pdb
+C:\Users\gakch\Desktop\labba5\Sample\SampleDatabaseWalkthrough\bin\Debug\SampleDatabase.mdf
+C:\Users\gakch\Desktop\labba5\Sample\SampleDatabaseWalkthrough\bin\Debug\SampleDatabase_log.ldf
+C:\Users\gakch\Desktop\labba5\Sample\SampleDatabaseWalkthrough\bin\Debug\SampleDatabaseWalkthrough.exe.config
+C:\Users\gakch\Desktop\labba5\Sample\SampleDatabaseWalkthrough\bin\Debug\SampleDatabaseWalkthrough.exe
+C:\Users\gakch\Desktop\labba5\Sample\SampleDatabaseWalkthrough\bin\Debug\SampleDatabaseWalkthrough.pdb
+C:\Users\gakch\Desktop\labba5\Sample\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.VyborForm.resources
+C:\Users\gakch\Desktop\labba5\Sample\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.Zapros1.resources
+C:\Users\gakch\Desktop\labba5\Sample\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.Zapros2.resources
+C:\Users\Aleksey\Desktop\labba5\Sample\SampleDatabaseWalkthrough\bin\Debug\SampleDatabase.mdf
+C:\Users\Aleksey\Desktop\labba5\Sample\SampleDatabaseWalkthrough\bin\Debug\SampleDatabase_log.ldf
+C:\Users\Aleksey\Desktop\labba5\Sample\SampleDatabaseWalkthrough\bin\Debug\SampleDatabaseWalkthrough.exe.config
+C:\Users\Aleksey\Desktop\labba5\Sample\SampleDatabaseWalkthrough\bin\Debug\SampleDatabaseWalkthrough.exe
+C:\Users\Aleksey\Desktop\labba5\Sample\SampleDatabaseWalkthrough\bin\Debug\SampleDatabaseWalkthrough.pdb
+C:\Users\Aleksey\Desktop\labba5\Sample\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.csproj.AssemblyReference.cache
+C:\Users\Aleksey\Desktop\labba5\Sample\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.Avtoriz.resources
+C:\Users\Aleksey\Desktop\labba5\Sample\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.Sprav.resources
+C:\Users\Aleksey\Desktop\labba5\Sample\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.View.resources
+C:\Users\Aleksey\Desktop\labba5\Sample\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.Role.resources
+C:\Users\Aleksey\Desktop\labba5\Sample\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.Properties.Resources.resources
+C:\Users\Aleksey\Desktop\labba5\Sample\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.RegForm.resources
+C:\Users\Aleksey\Desktop\labba5\Sample\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.VyborForm.resources
+C:\Users\Aleksey\Desktop\labba5\Sample\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.Zapros1.resources
+C:\Users\Aleksey\Desktop\labba5\Sample\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.Zapros2.resources
+C:\Users\Aleksey\Desktop\labba5\Sample\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.csproj.GenerateResource.cache
+C:\Users\Aleksey\Desktop\labba5\Sample\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.csproj.CoreCompileInputs.cache
+C:\Users\Aleksey\Desktop\labba5\Sample\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.exe
+C:\Users\Aleksey\Desktop\labba5\Sample\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.pdb
